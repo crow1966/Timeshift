@@ -207,4 +207,4 @@ TimeShift is available as a **full free version** with all features and updates 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-17 13:18:12 UTC
+**Last updated:** 2026-09-17 18:05:43 UTC
